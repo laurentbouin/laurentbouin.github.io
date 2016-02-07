@@ -4,11 +4,15 @@
 
 #### Spring-boot
 
- A couple of examples:
+A couple of examples:
 
-### Creating pages manually
-If you prefer to not use the automatic generator, push a branch named `gh-pages` to your repository to create a page manually. In addition to supporting regular HTML content, GitHub Pages support Jekyll, a simple, blog aware static site generator. Jekyll makes it easy to create site-wide headers and footers without having to copy them across every page. It also offers intelligent blog support and other advanced templating features.
+ * [Spring-boot w/ Swagger 2](https://github.com/laurentbouin/boot-samples/tree/master/swagger2) (using springfox.io)
+ * Spring-boot w/ Swagger 2 & spring-boot-admin _let me clean the code first ;)_ 
 
-### Authors and Contributors
-You can @mention a GitHub username to generate a link to their profile. The resulting `<a>` element will link to the contributor’s GitHub Profile. For example: In 2007, Chris Wanstrath (@defunkt), PJ Hyett (@pjhyett), and Tom Preston-Werner (@mojombo) founded GitHub.
+#### Other 
+
+* [HyStocks](https://github.com/laurentbouin/hystocks) :: Sample Application for Hystrix, Archaius & Spring
+
+### I would love your feedback!
+You can find me here (@laurentbouin)or on Twitter [@laurentbouin](https://twitter.com/laurentbouin)
 
