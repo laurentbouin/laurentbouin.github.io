@@ -2,7 +2,7 @@
 
 ### Code samples
 
- #### Spring-boot
+#### Spring-boot
 
  A couple of examples:
 
