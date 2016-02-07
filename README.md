@@ -1,15 +1,15 @@
-### Welcome to LBO GitHub Page.
+## Welcome to LBO GitHub Page.
 
-### Code samples
+I'm mostly sharing code samples that helped me develop awesome tools & products. 
 
-#### Spring-boot
+### Spring-boot
 
 A couple of examples:
 
  * [Spring-boot w/ Swagger 2](https://github.com/laurentbouin/boot-samples/tree/master/swagger2) (using springfox.io)
  * Spring-boot w/ Swagger 2 & spring-boot-admin _let me clean the code first ;)_ 
 
-#### Other 
+### Other 
 
 * [HyStocks](https://github.com/laurentbouin/hystocks) :: Sample Application for Hystrix, Archaius & Spring
 
