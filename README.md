@@ -7,7 +7,7 @@ I'm mostly sharing code samples that helped me develop awesome tools & products.
 A couple of examples:
 
  * [Spring-boot w/ Swagger 2](https://github.com/laurentbouin/boot-samples/tree/master/swagger2) (using springfox.io)
- * Spring-boot w/ Swagger 2 & spring-boot-admin _let me clean the code first ;)_ 
+ * [Spring-boot w/ Swagger 2 & spring-boot-admin](https://github.com/laurentbouin/boot-samples/tree/master/swagger2-admin)
 
 ### Other 
 
