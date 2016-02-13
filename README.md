@@ -14,5 +14,5 @@ A couple of examples:
 * [HyStocks](https://github.com/laurentbouin/hystocks) :: Sample Application for Hystrix, Archaius & Spring
 
 ### I would love your feedback!
-You can find me here (@laurentbouin)or on Twitter [@laurentbouin](https://twitter.com/laurentbouin)
+You can find me here (@laurentbouin) or on Twitter [@laurentbouin](https://twitter.com/laurentbouin)
 
