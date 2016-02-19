@@ -11,7 +11,7 @@ A couple of examples:
 
 ### Other 
 
-* [Today I learned](https://github.com/laurentbouin/til/)
+* [Today I learned](https://github.com/laurentbouin/til/) :: Small list of things I learned and may did to reuse in the future
 * [HyStocks](https://github.com/laurentbouin/hystocks) :: Sample Application for Hystrix, Archaius & Spring
 
 ### I would love your feedback!
